@@ -1,6 +1,5 @@
 2.
 #include<stdio.h>
-#include<stli.h>
  
 int main()
 {
